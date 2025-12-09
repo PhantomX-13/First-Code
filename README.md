@@ -1,1 +1,1 @@
-# First-Code 
+This repository traces the roots of my programming journey, beginning with C, evolving through C++ & strengthening with data structures and algorithms. These early lessons shaped the foundation that later pushed me toward competitive programming. A curated archive of where my growth truly began.
